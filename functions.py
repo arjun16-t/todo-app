@@ -1,4 +1,4 @@
-FILEPATH = "todos.txt"          # CONSTANT VARIABLE
+FILEPATH = "todo.txt"          # CONSTANT VARIABLE
 
 
 def get_todos(filepath=FILEPATH):
